@@ -1,4 +1,4 @@
 {
   "cmake.sourceDirectory": "${workspaceFolder}/projectFolder",
-  "cSpell.words": ["endforeach", "ncpu"]
+  "cSpell.words": ["ccache", "endforeach", "hendrikmuhs", "ncpu", "sccache"]
 }
