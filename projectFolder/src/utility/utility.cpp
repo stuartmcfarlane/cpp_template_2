@@ -6,4 +6,8 @@ namespace Utility
     {
         return "Hello World!";
     }
+    std::string GoodbyeWorld()
+    {
+        return "Goodbye cruel world!";
+    }
 }  // namespace Utility

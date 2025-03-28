@@ -13,7 +13,7 @@ else
     exit 1
 fi
 
-echo "Bulding Debug version using ${cpu_count} threads..."
+echo "Building Debug version using ${cpu_count} threads..."
 cmake --build build/Debug/ -j$cpu_count
 RESULT=$?
 if [ $RESULT == 0 ]; then
