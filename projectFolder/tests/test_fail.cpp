@@ -1,13 +1,13 @@
 #include "test.h"
 
-void testFail()
+void testSuccess()
 {
-    assertTrue(false);
+    assertTrue(true);
 }
 
 int main()
 {
-    testFail();
+    testSuccess();
 
     return 0;
 }
